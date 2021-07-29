@@ -1,4 +1,4 @@
-# csv-import
+# csv-import: A simple tool for import data from csv file to database
 
 ## Usage:
 
